@@ -1,0 +1,41 @@
+html{ font-size: 12px; -webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,hr,button,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{margin:0;padding:0}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+audio,canvas,video{display:inline-block;*display:inline;*zoom:1}
+body,button,input,select,textarea{font:12px/1.5 arial,"Microsoft YaHei"; color: #888;}
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill { background-color: none !important; color: #333 !important; }
+input,select,textarea{font-size:100%}
+table{border-collapse:collapse;border-spacing:0}
+th{text-align:inherit}
+fieldset,img,input{border:0}
+iframe{display:block}
+abbr,acronym{border:0;font-variant:normal}
+del{text-decoration:line-through}
+address,caption,cite,code,dfn,em,th,var{font-style:normal;font-weight:500}
+ol,ul{list-style:none}
+caption,th{text-align:left}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:500}
+q:before,q:after{content:''}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-0.5em}
+sub{bottom:-0.25em}
+a{color:#666;}
+ins,a{text-decoration:none}
+a:hover { color: #20a0ff; }
+*{margin:0; padding:0}
+i,em{font-style: normal}
+input::-webkit-input-placeholder { color: #ccc; font-weight: normal; } /* WebKit browsers*/
+input:-moz-placeholder { color: #ccc; font-weight: normal; } /*Mozilla Firefox 4 to 18 */
+input::-moz-placeholder { color: #ccc; font-weight: normal;} /*Mozilla Firefox 19+ */
+input:-ms-input-placeholder { color: #ccc; font-weight: normal;} /*Internet Explorer 10+ */
+input:disabled,
+input:disabled:hover { background: none; }
+html,body,#app,.wrapper{width:100%; height:100%; overflow: hidden; }
+body { color: #666; background: #48576a; font-family: Microsoft YaHei,arial,"Helvetica Neue",Roboto,Arial,"Droid Sans",sans-serif; font-size: 12px; font-weight: 400; line-height: 1.471; }
+.content{background: none repeat scroll 0 0 #fff; position: absolute; left: 250px; right: 0; top: 70px; bottom:0; width: auto; padding:40px; box-sizing: border-box; overflow-y: scroll; }
+.crumbs{margin-bottom: 20px; }
+.fontawesome-icon-list .fa-hover a:hover {background-color: #ddd; color: #fff; text-decoration: none }
+.fontawesome-icon-list .fa-hover a {display: block; line-height: 32px; height: 32px; padding-left: 10px; border-radius: 4px }
+.fontawesome-icon-list .fa-hover a:hover .fa {font-size: 28px; vertical-align: -6px }
+.fontawesome-icon-list .fa-hover a .fa {width: 32px; font-size: 16px; display: inline-block; text-align: right; margin-right: 10px }
+.fa {width: 26px; opacity: .99; float: left; font-family: FontAwesome; font-style: normal; font-weight: 400; font-size: 20px; -moz-osx-font-smoothing: grayscale }
